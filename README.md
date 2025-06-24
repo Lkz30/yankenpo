@@ -38,3 +38,10 @@ Download, tap, and see if you can beat the machine at its own game.**
 
 ---
 
+## 👨‍⚕️ About the Author
+
+I'm **Luis Cano**, a medical doctor and pathologist passionate about the intersection between **medicine** and **technology**.
+
+This project is part of my personal journey into the world of **SwiftUI** and **app development**. As I explore how digital tools can enhance diagnostics and patient care, I’m learning to build smart, intuitive apps that bridge the gap between healthcare and innovation.
+
+Follow along as I take these first steps — from playful prototypes like YanKenPo to advanced tools that can one day impact clinical practice.
